@@ -44,7 +44,33 @@ html, body {
 	text-decoration: none;
 }
 
+.btn-primary {
+	color: #262c30;
+	background-color: #9fdfbf;
+	border: 1px solid #9fdfbf;
+}
+
+.btn:hover, .btn:active, .btn:focus {
+	background-color: #fbcc0c;
+	border: 1px solid #fbcc0c;
+	box-shadow: none;
+}
+
 /*--Media Queries --*/
+@media (max-width: 768px) {
+	.btn {
+		font-size: 95%;
+		padding: 8px 14px;
+	}
+}
+
+@media (max-width: 576px) {
+	.btn {
+		font-size: 90%;
+		padding: 4px 8px;
+	}
+}
+
 @media (max-width: 372px) {
 	.logo {
 		width: 200px;
