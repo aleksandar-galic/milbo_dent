@@ -62,12 +62,18 @@ html, body {
 		font-size: 95%;
 		padding: 8px 14px;
 	}
+	.display-4 {
+		font-size: 200%;
+	}
 }
 
 @media (max-width: 576px) {
 	.btn {
 		font-size: 90%;
 		padding: 4px 8px;
+	}
+	.display-4 {
+		font-size: 160%;
 	}
 }
 
