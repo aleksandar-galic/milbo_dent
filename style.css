@@ -51,9 +51,9 @@ html, body {
 }
 
 .btn:hover, .btn:active, .btn:focus {
-	background-color: #fbcc0c;
-	border: 1px solid #fbcc0c;
-	box-shadow: none;
+	background-color: #fbcc0c !important;
+	border: 1px solid #fbcc0c !important;
+	box-shadow: none !important;
 }
 
 /*Connect*/
