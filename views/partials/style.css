@@ -10,16 +10,12 @@ html, body {
 
 /*Navigation*/
 .navbar {
-	padding: .8rem;
+	padding: .2rem;
 }
 
 .logo {
 	width: 300px;
-	height: 100px;
-}
-
-.navbar-nav li {
-	padding-right: 20px;
+	height: 90px;
 }
 
 .nav-link {
@@ -30,13 +26,12 @@ html, body {
 .fa-hospital,
 .fa-plus-square,
 .fa-home,
-.fa-phone-alt {
+.fa-phone-square {
 	color: #9fdfbf;
 	font-size: 2.9rem;
 }
 
 .callToAction p {
-	font-size: 1.3rem;
 	color: #222;
 }
 
@@ -150,9 +145,16 @@ hr.light {
 }
 
 /*Custom Small*/
-@media (max-width: 372px) {
+@media (max-width: 400px) {
 	.logo {
-		width: 200px;
-		height: 80px;
+		width: 230px;
+		height: 70px;
+	}
+}
+/*Custom Extra Small*/
+@media (max-width: 340px) {
+	.logo {
+		width: 190px;
+		height: 70px;
 	}
 }
