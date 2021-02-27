@@ -43,7 +43,7 @@
 							<a class="dropdown-item" href="lecenje-zuba">Lečenje Zuba</a>
 							<a class="dropdown-item" href="paradontologija">Paradontologija</a>
 							<a class="dropdown-item" href="decija-stomatologija">Dečija Stomatologija</a>
-							<a class="dropdown-item" href="#">Restauracija Zuba (Plombe)</a>
+							<a class="dropdown-item" href="plombe">Restauracija Zuba (Plombe)</a>
 						</div>
 					</li>
 					<li class="nav-item dropdown active">
