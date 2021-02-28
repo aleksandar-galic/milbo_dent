@@ -84,7 +84,7 @@
 						<a class="nav-link" href="#">Zašto Mi?</a>
 					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="#">Pitanja i Odgovori</a>
+						<a class="nav-link" href="pitanja-i-odgovori">Pitanja i Odgovori</a>
 					</li>
 				</ul>
 			</div>
