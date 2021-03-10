@@ -12,6 +12,7 @@ $router->get('decija-stomatologija', 'views/decija_stomatologija.view.php');
 
 // Estetska Stomatologija
 $router->get('estetska-stomatologija', 'views/estetska-stomatologija.view.php');
+$router->get('ortodoncija', 'views/ortodoncija.view.php');
 
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');

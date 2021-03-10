@@ -51,7 +51,7 @@
 							Estetska Stomatologija
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="#">Ortodoncija</a>
+							<a class="dropdown-item" href="ortodoncija">Ortodoncija</a>
 							<a class="dropdown-item" href="#">Viniri (Fasete)</a>
 							<a class="dropdown-item" href="#">Izbeljivanje Zuba</a>
 							<a class="dropdown-item" href="#">Bezmetalna Keramika</a>
