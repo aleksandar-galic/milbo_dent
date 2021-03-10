@@ -53,7 +53,7 @@
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="ortodoncija">Ortodoncija</a>
 							<a class="dropdown-item" href="viniri">Viniri (Fasete)</a>
-							<a class="dropdown-item" href="#">Izbeljivanje Zuba</a>
+							<a class="dropdown-item" href="izbeljivanje-zuba">Izbeljivanje Zuba</a>
 							<a class="dropdown-item" href="#">Bezmetalna Keramika</a>
 						</div>
 					</li>
