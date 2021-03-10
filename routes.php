@@ -15,6 +15,7 @@ $router->get('estetska-stomatologija', 'views/estetska-stomatologija.view.php');
 $router->get('ortodoncija', 'views/ortodoncija.view.php');
 $router->get('viniri', 'views/viniri.view.php');
 $router->get('izbeljivanje-zuba', 'views/izbeljivanje_zuba.view.php');
+$router->get('bezmetalna-keramika', 'views/bezmetalna_keramika.view.php');
 
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
