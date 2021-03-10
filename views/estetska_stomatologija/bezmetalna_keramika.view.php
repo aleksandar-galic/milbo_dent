@@ -1,19 +1,19 @@
-<?php require ('partials/header.php'); ?>
+<?php require ('views/partials/header.php'); ?>
 
 	<!-- About Section -->
 	<div class="container">
 		<div class="row welcome">
 			<div class="col-12">
-				<h1 class="display-6">Viniri (Fasete)</h1>
+				<h1 class="display-6">Bezmtalna Keramika</h1>
 			</div>				
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Viniri predstavljaju keramicke fasete ili ljuspice, kako ih još nazivaju.
+					Razvojem stomatologije danas se došlo do najidealnijeg nacina za rekonstrukciju vaših zuba, narocito u frontalnoj regiji.
 					<br><br>
-					Rađenjem vinira vi ste u stanju da potpuno rekonstruišete svoj osmeh: od boje zuba, preko ispravljanja pomerenih, rotiranih ili zakrivljenih zuba.
+					Krunice i mostovi radeni od bezmetalne keramike su pravo estetsko savršenstvo u pogledu boje, transparencije i translucencije zuba.
 					<br><br>
-					Ukoliko imate bilo koji od ovih problema, vinirima ćete ih jako lepo rešiti.
+					Svakome kome je stalo do savršenih nadoknada najiskrenije preporucujemo krunice i mostove od bezmetalne keramike.
 				</p>
 			</div>
 		</div>
@@ -34,16 +34,16 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="images/Viniri/1.jpg" class="d-block w-100 h-100">
+					<img src="images/BezmetalnaKeramika/1.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/Viniri/2.jpg" class="d-block w-100 h-100">
+					<img src="images/BezmetalnaKeramika/2.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/Viniri/3.jpg" class="d-block w-100 h-100">
+					<img src="images/BezmetalnaKeramika/3.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/Viniri/4.jpg" class="d-block w-100 h-100">
+					<img src="images/BezmetalnaKeramika/4.jpg" class="d-block w-100 h-100">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -60,4 +60,4 @@
 		<hr class="my-4">	
 	</div>
 
-<?php require ('partials/footer.php'); ?>
+<?php require ('views/partials/footer.php'); ?>

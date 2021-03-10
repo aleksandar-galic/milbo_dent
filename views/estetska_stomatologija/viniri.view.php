@@ -1,20 +1,27 @@
-<?php require ('partials/header.php'); ?>
+<?php require ('views/partials/header.php'); ?>
 
-	<!-- About -->
-	<div class="container-sm">
-		<div class="row welcome text-left">
+	<!-- About Section -->
+	<div class="container">
+		<div class="row welcome">
 			<div class="col-12">
-				<h1 class="display-6">Lecenje Zuba</h1>
-			</div>        
+				<h1 class="display-6">Viniri (Fasete)</h1>
+			</div>				
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Koristeci savremene endodontske metode i najkvalitetnije materijale i lekove, saniracemo Vaš problem, bio on upala živca, nekroza (odumiranje zuba), ili gangrena zuba.
+					Viniri predstavljaju keramicke fasete ili ljuspice, kako ih još nazivaju.
+					<br><br>
+					Rađenjem vinira vi ste u stanju da potpuno rekonstruišete svoj osmeh: od boje zuba, preko ispravljanja pomerenih, rotiranih ili zakrivljenih zuba.
+					<br><br>
+					Ukoliko imate bilo koji od ovih problema, vinirima ćete ih jako lepo rešiti.
 				</p>
 			</div>
 		</div>
 		<hr class="my-3">
 	</div>
+
+	<image-carousel>
+	</image-carousel>
 
 	<!-- Carousel -->
 	<div class="container-sm w-50">
@@ -27,16 +34,16 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="images/LecenjeZuba/1.jpg" class="d-block w-100 h-100">
+					<img src="images/Viniri/1.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/LecenjeZuba/2.jpg" class="d-block w-100 h-100">
+					<img src="images/Viniri/2.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/LecenjeZuba/3.jpg" class="d-block w-100 h-100">
+					<img src="images/Viniri/3.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/LecenjeZuba/4.jpg" class="d-block w-100 h-100">
+					<img src="images/Viniri/4.jpg" class="d-block w-100 h-100">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -53,4 +60,4 @@
 		<hr class="my-4">	
 	</div>
 
-<?php require ('partials/footer.php'); ?>
+<?php require ('views/partials/footer.php'); ?>

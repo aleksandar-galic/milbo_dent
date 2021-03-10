@@ -3,19 +3,20 @@
 $router->get('', 'views/index.view.php');
 
 // Opsta Stomatologija
-$router->get('opsta-stomatologija', 'views/opsta_stomatologija.view.php');
+$router->get('opsta-stomatologija', 'views/opsta_stomatologija/opsta_stomatologija.view.php');
 
-$router->get('plombe', 'views/plombe.view.php');
-$router->get('lecenje-zuba', 'views/lecenje_zuba.view.php');
-$router->get('paradontologija', 'views/paradontologija.view.php');
-$router->get('decija-stomatologija', 'views/decija_stomatologija.view.php');
+$router->get('plombe', 'views/opsta_stomatologija/plombe.view.php');
+$router->get('lecenje-zuba', 'views/opsta_stomatologija/lecenje_zuba.view.php');
+$router->get('paradontologija', 'views/opsta_stomatologija/paradontologija.view.php');
+$router->get('decija-stomatologija', 'views/opsta_stomatologija/decija_stomatologija.view.php');
 
 // Estetska Stomatologija
-$router->get('estetska-stomatologija', 'views/estetska-stomatologija.view.php');
-$router->get('ortodoncija', 'views/ortodoncija.view.php');
-$router->get('viniri', 'views/viniri.view.php');
-$router->get('izbeljivanje-zuba', 'views/izbeljivanje_zuba.view.php');
-$router->get('bezmetalna-keramika', 'views/bezmetalna_keramika.view.php');
+$router->get('estetska-stomatologija', 'views/estetska_stomatologija/estetska-stomatologija.view.php');
+
+$router->get('ortodoncija', 'views/estetska_stomatologija/ortodoncija.view.php');
+$router->get('viniri', 'views/estetska_stomatologija/viniri.view.php');
+$router->get('izbeljivanje-zuba', 'views/estetska_stomatologija/izbeljivanje_zuba.view.php');
+$router->get('bezmetalna-keramika', 'views/estetska_stomatologija/bezmetalna_keramika.view.php');
 
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');

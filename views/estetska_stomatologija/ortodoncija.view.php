@@ -1,19 +1,19 @@
-<?php require ('partials/header.php'); ?>
+<?php require ('views/partials/header.php'); ?>
 
 	<!-- About Section -->
 	<div class="container">
 		<div class="row welcome">
 			<div class="col-12">
-				<h1 class="display-6">Bezmtalna Keramika</h1>
+				<h1 class="display-6">Ortodoncija</h1>
 			</div>				
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Razvojem stomatologije danas se došlo do najidealnijeg nacina za rekonstrukciju vaših zuba, narocito u frontalnoj regiji.
+					Ortodoncija je grana stomatologije koja se bavi korekcijom nepravilnosti vilica i zuba. Te nepravilnosti su najcešce prouzrokovane genetskom predispozicijom, mada mogu biti podspešene i nekim lošim navikama ili ranim gubitkom mlecnih ili stalnih zuba.
 					<br><br>
-					Krunice i mostovi radeni od bezmetalne keramike su pravo estetsko savršenstvo u pogledu boje, transparencije i translucencije zuba.
+					Nepravilnosti se uocavaju vec kod dece školskog uzrasta. U zavisnosti od nepravilnosti sa terapijom se zapocinje što pre jer je tada uspeh terapije mnogo izvesniji.
 					<br><br>
-					Svakome kome je stalo do savršenih nadoknada najiskrenije preporucujemo krunice i mostove od bezmetalne keramike.
+					Terapija se vrši funkcionalnim, pokretnim i fiksnim ortodontskim aparatom u zavisnosti od vrste nepravilnosti i uzrasta pacijenta.
 				</p>
 			</div>
 		</div>
@@ -34,16 +34,16 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="images/BezmetalnaKeramika/1.jpg" class="d-block w-100 h-100">
+					<img src="images/Ortodoncija/1.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/BezmetalnaKeramika/2.jpg" class="d-block w-100 h-100">
+					<img src="images/Ortodoncija/2.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/BezmetalnaKeramika/3.jpg" class="d-block w-100 h-100">
+					<img src="images/Ortodoncija/3.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/BezmetalnaKeramika/4.jpg" class="d-block w-100 h-100">
+					<img src="images/Ortodoncija/4.jpg" class="d-block w-100 h-100">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -60,4 +60,4 @@
 		<hr class="my-4">	
 	</div>
 
-<?php require ('partials/footer.php'); ?>
+<?php require ('views/partials/footer.php'); ?>

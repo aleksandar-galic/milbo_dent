@@ -1,27 +1,24 @@
-<?php require ('partials/header.php'); ?>
+<?php require ('views/partials/header.php'); ?>
 
-	<!-- About Section -->
-	<div class="container padding">
-		<div class="row welcome">
+	<!-- About -->
+	<div class="container-sm">
+		<div class="row welcome text-left">
 			<div class="col-12">
-				<h1 class="display-6">Dečija Stomatologija</h1>
-			</div>				
+				<h1 class="display-6">Restauracija Zuba (Plombe)</h1>
+			</div>        
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Uz puno ljubavi i strpljenja našim najmladim pacijentima pružamo bezbolne intervencije na mlecnim i stalnim zubima. Kod nas ce nauciti kako pravilno da održavaju higijenu zuba, kako da se pravilno hrane, a sve u cilju postizanja zdravog osmeha.
+					Svaki zubni kvar rešicemo najsavremenijim plombama. Kvalitetnim materijalom postižemo vrhunske estetske karakteristike, plombe, kao da ne postoji u vašim ustima.
 					<br><br>
-					Sacuvacemo zdravlje njihovih zuba primenom fluorida i zalivanjem fisura. Zajednickim trudom našeg osoblja i roditelja deca ce sa zadovoljstvom i bez straha dolaziti u ordinaciju .
+					Primenjujemo najsavremenije metode u preparaciji kaviteta i postavljanja zubnih ispuna (plombi). Koristimo bele plombe nano tehnologije, koje ne samo da su dugotrajne, vec imaju i vrhunski estetski efekat, pa se na zubima ne primecuju.
 				</p>
 			</div>
 		</div>
 		<hr class="my-3">
 	</div>
 
-	<image-carousel>
-	</image-carousel>
-
-	<!-- Carousel -->
+	<!-- Carouselsel -->
 	<div class="container-sm w-50">
 		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -32,16 +29,16 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="images/decija_stomatologija/1.jpg" class="d-block w-100 h-100">
+					<img src="images/RestauracijaZuba/1.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/decija_stomatologija/2.jpg" class="d-block w-100 h-100">
+					<img src="images/RestauracijaZuba/2.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/decija_stomatologija/3.jpg" class="d-block w-100 h-100">
+					<img src="images/RestauracijaZuba/3.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/decija_stomatologija/4.jpg" class="d-block w-100 h-100">
+					<img src="images/RestauracijaZuba/4.jpg" class="d-block w-100 h-100">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -70,44 +67,52 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>Zalivanje fisura</td>
+					<td>Stomatološki Pregled</td>
 					<td>500 DIN</td>
 				</tr>
 				<tr>
-					<td>Fluorisanje zuba</td>
-					<td>1 000 DIN</td>
+					<td>Kompozitna Plomba na Jednoj Površini</td>
+					<td>2 000 DIN</td>
 				</tr>
 				<tr>
-					<td>Vadenje mlecnog zuba</td>
-					<td>1 000 DIN</td>
-				</tr>
-				<tr>
-					<td>GJC na mlecnim zubima</td>
-					<td>1 200 DIN</td>
-				</tr>
-				<tr>
-					<td>Terapija nezavršenog rasta korena po seansi</td>
-					<td>1 200 DIN</td>
-				</tr>
-				<tr>
-					<td>Cementiranje krunice</td>
-					<td>1 000 DIN</td>
-				</tr>
-				<tr>
-					<td>Amputacija pulpe</td>
-					<td>1 000 DIN</td>
-				</tr>
-				<tr>
-					<td>Direktno podlaganje proteze</td>
+					<td>Kompozitna Plomba na Dve Površine</td>
 					<td>2 500 DIN</td>
 				</tr>
 				<tr>
-					<td>Indirektno podlaganje proteze</td>
-					<td>70 EUR</td>
+					<td>Kompozitna Plomba na Tri Površine</td>
+					<td>2 800 DIN</td>
+				</tr>
+				<tr>
+					<td>Kompozitna Nadogradnja</td>
+					<td>4 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Keramicka Plomba CAD-CAM</td>
+					<td>16 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Amalgamska Plomba na Jednoj Površini</td>
+					<td>2 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Amalgamska Plomba na Dve Dovršine</td>
+					<td>2 400 DIN</td>
+				</tr>
+				<tr>
+					<td>Amalgamska Plomba na Tri Površine</td>
+					<td>2 600 DIN</td>
+				</tr>
+				<tr>
+					<td>Terapija Dubokog Karijesa u Jednoj Seansi</td>
+					<td>500 DIN</td>
+				</tr>
+				<tr>
+					<td>Terapija Dubokog Karijesa u Više Seansi</td>
+					<td>1 000 DIN</td>
 				</tr>
 			</tbody>
 		</table>
 		<hr class="my-4">
 	</div>
 
-<?php require ('partials/footer.php'); ?>
+<?php require ('views/partials/footer.php'); ?>

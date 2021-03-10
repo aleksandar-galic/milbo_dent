@@ -1,24 +1,28 @@
-<?php require ('partials/header.php'); ?>
+<?php require ('views/partials/header.php'); ?>
 
 	<!-- About -->
 	<div class="container-sm">
 		<div class="row welcome text-left">
 			<div class="col-12">
-				<h1 class="display-6">Restauracija Zuba (Plombe)</h1>
+				<h1 class="display-6">Paradontologija</h1>
 			</div>        
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Svaki zubni kvar rešicemo najsavremenijim plombama. Kvalitetnim materijalom postižemo vrhunske estetske karakteristike, plombe, kao da ne postoji u vašim ustima.
+					Ne dozvolite sebi da izgubite zdrave zube zbog najrasprostanjenije bolesti zuba na svetu - parodontopatije. Najcešce pocinje zapaljenjem desni oko zuba, prati je krvarenje desni i postepeno labavljenje zuba i na kraju se završava potpunim gubitkom zuba i smanjenjem koštanog tkiva koje služi kao potpora zubima.
 					<br><br>
-					Primenjujemo najsavremenije metode u preparaciji kaviteta i postavljanja zubnih ispuna (plombi). Koristimo bele plombe nano tehnologije, koje ne samo da su dugotrajne, vec imaju i vrhunski estetski efekat, pa se na zubima ne primecuju.
+					Bolest je podmukla i može poceti sa razvojem vec u ranoj mladosti. Glavni uzrocnik su bakterije koje se nalaze u zubnim naslagama i kamencu. Iz tih razloga je neophodno uklanjanje plaka i zubnog kamenca kao i drugi tretmani koji se primenjuju kada je vec došlo do razvoja oboljenja.
+					<br><br>
+					Otklonite sve njene simptome kao što su zubni kamenac, plak, desni koje krvare, koštane džepove prepune bakterija, razljuljane zube i na taj nacin sprecite gubitak zuba.
+					<br><br>
+					Pružamo najsavremenije metode lecenja parodontopatije u zavisnosti od njenog napredovanja konzervativnim i hiruškim metodama.
 				</p>
 			</div>
 		</div>
 		<hr class="my-3">
 	</div>
 
-	<!-- Carouselsel -->
+	<!-- Carousel -->
 	<div class="container-sm w-50">
 		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -29,16 +33,16 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="images/RestauracijaZuba/1.jpg" class="d-block w-100 h-100">
+					<img src="images/Paradontologija/1.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/2.jpg" class="d-block w-100 h-100">
+					<img src="images/Paradontologija/2.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/3.jpg" class="d-block w-100 h-100">
+					<img src="images/Paradontologija/3.jpg" class="d-block w-100 h-100">
 				</div>
 				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/4.jpg" class="d-block w-100 h-100">
+					<img src="images/Paradontologija/4.jpg" class="d-block w-100 h-100">
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -67,52 +71,28 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>Stomatološki Pregled</td>
-					<td>500 DIN</td>
-				</tr>
-				<tr>
-					<td>Kompozitna Plomba na Jednoj Površini</td>
+					<td>Uklanjanje tvrdih zubnih naslaga (kamenca) po kvadrantu</td>
 					<td>2 000 DIN</td>
 				</tr>
 				<tr>
-					<td>Kompozitna Plomba na Dve Površine</td>
-					<td>2 500 DIN</td>
-				</tr>
-				<tr>
-					<td>Kompozitna Plomba na Tri Površine</td>
-					<td>2 800 DIN</td>
-				</tr>
-				<tr>
-					<td>Kompozitna Nadogradnja</td>
-					<td>4 000 DIN</td>
-				</tr>
-				<tr>
-					<td>Keramicka Plomba CAD-CAM</td>
-					<td>16 000 DIN</td>
-				</tr>
-				<tr>
-					<td>Amalgamska Plomba na Jednoj Površini</td>
-					<td>2 000 DIN</td>
-				</tr>
-				<tr>
-					<td>Amalgamska Plomba na Dve Dovršine</td>
-					<td>2 400 DIN</td>
-				</tr>
-				<tr>
-					<td>Amalgamska Plomba na Tri Površine</td>
-					<td>2 600 DIN</td>
-				</tr>
-				<tr>
-					<td>Terapija Dubokog Karijesa u Jednoj Seansi</td>
-					<td>500 DIN</td>
-				</tr>
-				<tr>
-					<td>Terapija Dubokog Karijesa u Više Seansi</td>
+					<td>Uklanjanje mekih zubnih naslaga (poliranje)</td>
 					<td>1 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Kiretaža parodontalnog dzepa i aplikacija leka</td>
+					<td>1 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Terapija akutnog parodontalnog apscesa</td>
+					<td>1 000 DIN</td>
+				</tr>
+				<tr>
+					<td>Lecenje osetljivosti korena</td>
+					<td>500 DIN</td>
 				</tr>
 			</tbody>
 		</table>
 		<hr class="my-4">
 	</div>
 
-<?php require ('partials/footer.php'); ?>
+<?php require ('views/partials/footer.php'); ?>
