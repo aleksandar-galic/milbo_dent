@@ -39,6 +39,12 @@ html, body {
 	text-decoration: none;
 }
 
+/*Welcome*/
+.welcome {
+	text-decoration: none;
+}
+
+/*Buttons*/
 .btn-primary {
 	color: #262c30;
 	background-color: #9fdfbf;
@@ -117,11 +123,8 @@ hr.light {
  /*Medium (md)*/
 @media (max-width: 768px) {
 	.btn {
-		font-size: 95%;
+		font-size: 120%;
 		padding: 8px 14px;
-	}
-	.display-4 {
-		font-size: 200%;
 	}
 	.social a {
 		font-size: 2.5em;
@@ -132,11 +135,13 @@ hr.light {
 /*Small (sm)*/
 @media (max-width: 576px) {
 	.btn {
-		font-size: 90%;
 		padding: 4px 8px;
 	}
 	.display-4 {
-		font-size: 160%;
+		font-size: 250%;
+	}
+	h1 {
+		font-size: 200%;
 	}
 	.social a {
 		font-size: 2em;

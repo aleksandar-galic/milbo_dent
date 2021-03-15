@@ -1,26 +1,28 @@
 <?php require ('partials/header.php'); ?>
 
 	<!-- Welcome -->
-	<div class="container pb-5 bg-white">
+	<div class="welcome container pb-4 bg-white">
 		<h1 class="display-4">Dobrodošli!</h1>
 		<p class="lead">Naš cilj je blistav osmeh zadovoljnog pacijenta.</p>
 		<hr class="my-4">
 		<p>Zakazivanjem termina online ostvarujete <b>10% popusta</b> na sve usluge.</p>
 		<a href="#contact" type="button" class="btn btn-primary btn-lg">Zakaži Termin</a>
 	</div>
-
 	<!-- About -->
 	<div class="container">
 		<div class="row welcome text-left">
-			<div class="col-12">
-				<h1 class="display-6">MILBO DENT</h1>
-			</div>        
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					U našoj stomatološkoj ordinaciji dočekaće vas ljubazno i nasmejano osoblje koje će vam u prijatnom ambijentu i u potpunoj privatnosti pružiti sve neophodne stomatološke usluge.
+					U našoj stomatološkoj ordinaciji dočekaće vas ljubazno i nasmejano <a href="#stomatolozi"><i>osoblje</i></a>
+					<br class="d-none d-lg-block">
+					koje će vam u prijatnom <a href="ordinacija"><i>ambijentu</i></a> i u potpunoj privatnosti
+					<br class="d-none d-lg-block">
+					pružiti sve neophodne stomatološke <a href="opsta-stomatologija"><i>usluge</i></a>.
 					<br><br>
-					Radno vreme ordinacije je usklađeno sa vašim dnevnim obavezama. U našoj ordinaciji izlečićete svoje zube i dobiti neophodne savete o očuvanju i održavanju zuba.
+					<a href="#location"><i>Radno vreme</i></a> ordinacije je usklađeno sa vašim dnevnim obavezama.
+					<br class="d-none d-lg-block">
+					U našoj ordinaciji izlečićete svoje zube i dobiti neophodne savete o očuvanju i održavanju zuba.
 				</p>
 			</div>
 		</div>
@@ -28,7 +30,7 @@
 	</div>
 
 	<!-- Meet the Team -->
-	<div class="container-fluid padding">
+	<div class="container-fluid padding" id="stomatolozi">
 		<div class="row welcome text-center">
 			<div class="col-12">
 				<h1 class="display-6">Vaši Stomatolozi</h1>
@@ -36,7 +38,6 @@
 			<hr>
 		</div>
 	</div>
-
 	<!-- Cards -->
 	<div class="container-fluid padding">
 		<div class="row p-4">
