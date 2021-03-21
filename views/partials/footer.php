@@ -85,37 +85,50 @@
 
 	<!-- Footer -->
 	<footer>
-		<div class="container-fluid padding">
+		<div class="container">
 			<div class="row text-center">
 				<div class="col-md-4">
-					<a href="/"><img src="images/logo.png" style="width: 230px; height: 80px;"></a>
-					<hr class="light">
-					<p>+38111/3189-713</p>
-					<p>+38162/307-473</p>
-					<p>+38165/437-3092</p>
-					<p>milbodent@gmail.com</p>
-					<p>Nehruova 51 ( TC Piramida +)</p>
-					<p>Lokal 56/ I sprat</p>
-					<p>Novi Beograd 11070</p>
+					<div class="">
+						<div class="pb-2">
+							<a href="/"><img src="images/logo.png" style="width: 230px; height: 80px;"></a>
+						</div>
+						<p>
+							<a href="tel:+381113189713" style="color: #fbcc0c">+38111/3189-713</a>
+						</p>
+						<p>
+							<a href="tel:+38162307473" style="color: #fbcc0c">+38162/307-473</a>
+						</p>
+						<p>
+							<a href="tel:+381654373092" style="color: #fbcc0c">+38165/437-3092</a>
+						</p>
+						<p><p><a href="mailto:milbodent@gmail.com" style="color: #fbcc0c">milbodent@gmail.com</a></p></p>
+					</div>
 				</div>
 				<div class="col-md-4">
 					<hr class="light">
 					<h5>Radno Vreme</h5>
 					<hr class="light">
-					<p>Ponedeljak-Petak: 10:00h-18:00h</p>
-					<p>Subota: 09:00h-13:00h</p>
-					<p>Nedelja: po pozivu</p>
+					<div class="text-left">
+						<p>Ponedeljak - Petak: 10:00h - 18:00h</p>
+						<p>Subota: 09:00h - 13:00h</p>
+						<p>Nedelja: po pozivu</p>
+					</div>
 				</div>
 				<div class="col-md-4">
 					<hr class="light">
 					<h5>Dođite kod Nas</h5>
 					<hr class="light">
-					<p>Autobusi: 45, 68, 73, 89, 94, 95, 610</p>
-					<p>Tramvaji: 7, 9, 13</p>
+					<div class="text-left">
+						<p>Nehruova 51 ( TC Piramida +)</p>
+						<p>Lokal 56/ I sprat</p>
+						<p>Novi Beograd 11070</p>
+						<p>Autobusi: 45, 68, 73, 89, 94, 95, 610</p>
+						<p>Tramvaji: 7, 9, 13</p>
+					</div>
 				</div>
 				<div class="col-12">
 					<hr class="light">
-					<h5>&copy; Sva prava zadržana ©2012 | MILBO DENT. Nehruova 51/56 | 11070 Novi Beograd</h5>
+					<p class="text-muted">&copy; Sva prava zadržana | 2021. | MILBO DENT</p>
 				</div>
 			</div>
 		</div>
