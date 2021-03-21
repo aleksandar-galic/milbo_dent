@@ -9,50 +9,39 @@
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Svaki zubni kvar rešicemo najsavremenijim plombama. Kvalitetnim materijalom postižemo vrhunske estetske karakteristike, plombe, kao da ne postoji u vašim ustima.
+					Svaki zubni kvar rešićemo najsavremenijim plombama. Kvalitetnim materijalom postižemo
+					<br class="d-none d-lg-block">
+					vrhunske estetske karakteristike, plombe, kao da ne postoji u vašim ustima.
 					<br><br>
-					Primenjujemo najsavremenije metode u preparaciji kaviteta i postavljanja zubnih ispuna (plombi). Koristimo bele plombe nano tehnologije, koje ne samo da su dugotrajne, vec imaju i vrhunski estetski efekat, pa se na zubima ne primecuju.
+					Primenjujemo najsavremenije metode u preparaciji kaviteta i postavljanja zubnih ispuna.
+					<br class="d-none d-lg-block">
+					Koristimo bele plombe nano tehnologije, koje ne samo da su dugotrajne,
+					<br class="d-none d-lg-block">
+					već imaju i vrhunski estetski efekat, pa se na zubima ne primećuju.
 				</p>
 			</div>
 		</div>
-		<hr class="my-3">
 	</div>
 
-	<!-- Carouselsel -->
-	<div class="container-sm w-50">
-		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-			</ol>
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-					<img src="images/RestauracijaZuba/1.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/2.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/3.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/RestauracijaZuba/4.jpg" class="d-block w-100 h-100">
-				</div>
+	<!-- Carousel -->
+	<div class="container">
+		<div class="row px-2">
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Plombe/1.jpg" class="d-block w-100 h-100">
 			</div>
-			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Plombe/2.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Plombe/3.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Plombe/4.jpg" class="d-block w-100 h-100">
+			</div>
 		</div>
 	</div>
 	<div class="container">
-		<hr class="my-4">	
+		<hr class="my-3">	
 	</div>
 
 	<!-- Cenovnik -->
@@ -87,7 +76,7 @@
 					<td>4 000 DIN</td>
 				</tr>
 				<tr>
-					<td>Keramicka Plomba CAD-CAM</td>
+					<td>Keramička Plomba CAD-CAM</td>
 					<td>16 000 DIN</td>
 				</tr>
 				<tr>
