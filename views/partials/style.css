@@ -59,16 +59,12 @@ html, body {
 
 /*Connect*/
 .social a {
-	font-size: 4.5em;
+	font-size: 3.7em;
 	padding: 3rem;
 }
 
 .fa-instagram {
 	color: #517fa4;
-}
-
-.fa-youtube {
-	color: #bb0000;
 }
 
 .fa-whatsapp {
@@ -80,10 +76,10 @@ html, body {
 }
 
 .fa-facebook:hover,
-.fa-twitter:hover,
 .fa-instagram:hover,
-.fa-youtube:hover {
-	color: #d5d5d5;
+.fa-whatsapp:hover,
+.fa-viber:hover {
+	color: #d5d5d5 !important;
 }
 
 /*Footer*/
@@ -115,7 +111,7 @@ hr.light {
 /*Large (lx)*/
 @media (max-width: 992px) {
 	.social a {
-		font-size: 4em;
+		font-size: 3.2em;
 		padding: 2rem;
 	}
 }
@@ -127,7 +123,7 @@ hr.light {
 		padding: 8px 14px;
 	}
 	.social a {
-		font-size: 2.5em;
+		font-size: 2.7em;
 		padding: 1.2rem;
 	}
 }
@@ -144,7 +140,7 @@ hr.light {
 		font-size: 200%;
 	}
 	.social a {
-		font-size: 2em;
+		font-size: 2.2em;
 		padding: .7rem;
 	}
 }

@@ -92,7 +92,7 @@
 	</nav>
 
 	<!-- Call to Action -->
-	<div class="callToAction container-fluid pt-3">
+	<div class="callToAction container pt-3">
 		<div class="row text-center">
 			<div class="col-6 col-sm-6 col-md-3">
 				<a href="#location">

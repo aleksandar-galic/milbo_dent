@@ -1,5 +1,5 @@
 	<!-- Location -->
-	<div class="container-fluid" id="location">
+	<div class="container" id="location">
 		<h2 class="text-center">Dođite kod Nas</h2>
 		<div class="row pt-2">
 			<div class="col-12 col-sm-6 col-lg-4">
@@ -39,34 +39,40 @@
 			</div>
 			<div class="col-12 social padding">
 				<a href="https://www.facebook.com/MilboDent"><i class="fab fa-facebook"></i></a>
-				<a href="#"><i class="fab fa-instagram"></i></a>
-				<a href="#"><i class="fab fa-viber"></i></a>
-				<a href="#"><i class="fab fa-whatsapp"></i></a>
+				<a href="https://www.instagram.com/milbo_dent/"><i class="fab fa-instagram"></i></a>
+				<a href="tel:+38162307473"><i class="fab fa-viber"></i></a>
+				<a href="tel:+38162307473"><i class="fab fa-whatsapp"></i></a>
 			</div>
 		</div>
-		<hr class="my-2">
+		<hr class="my-3">
 	</div>
 
 	<!-- Contact Form -->
-	<div class="container w-100 p-3" id="contact">
+	<div class="container w-100 pb-4" id="contact">
 		<form>
-			<h4>Zakažite Termin Online</h4>
-			<small id="emailHelp" class="form-text text-muted"><b>Zakazivanjem termina online ostvarujete 10% popusta na sve usluge.</b></small>
+			<h3>Zakažite Termin Online</h3>
+			<small id="emailHelp" class="form-text text-muted pb-1"><b>Zakazivanjem termina online ostvarujete 10% popusta na sve usluge.</b></small>
 			<div class="form-group">
 				<label for="inputName">Ime i Prezime</label>
-				<input type="email" class="form-control" id="inputName" aria-describedby="emailHelp">
+				<input type="text" class="form-control" id="inputName" aria-describedby="emailHelp" required>
 			</div>
 			<div class="form-group">
 				<label for="inputEmail">E-mail Adresa</label>
-				<input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp">
+				<input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" required>
 			</div>
 			<div class="form-group">
 				<label for="inputPhone">Telefon</label>
-				<input type="email" class="form-control" id="inputPhone" aria-describedby="emailHelp">
+				<input type="tel" class="form-control" id="inputPhone" aria-describedby="emailHelp" pattern="[0-9]" required>
 			</div>
-			<div class="form-group">
-				<label for="dateInput">Datum Pregleda</label>
-				<input class="datepicker" type="date" id="dateInput">
+			<div class="row" style="width: auto;">
+				<div class="col-sm-6 form-group">
+					<label for="inputDate">Datum Pregleda</label>
+					<input class="datepicker" type="date" id="inputDate" value="<?php echo date('Y-m-d'); ?>" required>
+				</div>
+				<div class="col-sm-6 form-group">
+					<label for="inputTime">Vreme Pregleda</label>
+					<input type="time" id="inputTime" required>
+				</div>
 			</div>
 			<div class="form-group">
 				<label for="inputTextarea">Poruka</label>
@@ -82,7 +88,7 @@
 		<div class="container-fluid padding">
 			<div class="row text-center">
 				<div class="col-md-4">
-					<img src="images/logo.png" style="width: 230px; height: 80px;">
+					<a href="/"><img src="images/logo.png" style="width: 230px; height: 80px;"></a>
 					<hr class="light">
 					<p>+38111/3189-713</p>
 					<p>+38162/307-473</p>
