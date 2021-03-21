@@ -9,53 +9,35 @@
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Uz puno ljubavi i strpljenja našim najmladim pacijentima pružamo bezbolne intervencije na mlecnim i stalnim zubima. Kod nas ce nauciti kako pravilno da održavaju higijenu zuba, kako da se pravilno hrane, a sve u cilju postizanja zdravog osmeha.
+					Uz puno ljubavi i strpljenja našim najmlađim pacijentima pružamo bezbolne intervencije na mlečnim i stalnim zubima. Kod nas će naučiti kako pravilno da održavaju higijenu zuba, kako da se pravilno hrane,
+					<br class="d-none d-lg-block">
+					a sve u cilju postizanja zdravog osmeha.
 					<br><br>
-					Sacuvacemo zdravlje njihovih zuba primenom fluorida i zalivanjem fisura. Zajednickim trudom našeg osoblja i roditelja deca ce sa zadovoljstvom i bez straha dolaziti u ordinaciju .
+					Sačuvaćemo zdravlje njihovih zuba primenom fluorida i zalivanjem fisura. Zajedničkim trudom našeg osoblja i roditelja deca će sa zadovoljstvom i bez straha dolaziti u ordinaciju.
 				</p>
 			</div>
 		</div>
-		<hr class="my-3">
 	</div>
 
-	<image-carousel>
-	</image-carousel>
-
 	<!-- Carousel -->
-	<div class="container-sm w-50">
-		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-			</ol>
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-					<img src="images/decija_stomatologija/1.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/decija_stomatologija/2.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/decija_stomatologija/3.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/decija_stomatologija/4.jpg" class="d-block w-100 h-100">
-				</div>
+	<div class="container">
+		<div class="row px-2">
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/DecijaStomatologija/1.jpg" class="d-block w-100 h-100">
 			</div>
-			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/DecijaStomatologija/2.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/DecijaStomatologija/3.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/DecijaStomatologija/4.jpg" class="d-block w-100 h-100">
+			</div>
 		</div>
 	</div>
 	<div class="container">
-		<hr class="my-4">	
+		<hr class="my-3">	
 	</div>
 
 	<!-- Cenovnik -->
