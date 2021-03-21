@@ -9,55 +9,41 @@
 			<hr>
 			<div class="col-12">
 				<p class="lead">
-					Ortodoncija je grana stomatologije koja se bavi korekcijom nepravilnosti vilica i zuba. Te nepravilnosti su najcešce prouzrokovane genetskom predispozicijom, mada mogu biti podspešene i nekim lošim navikama ili ranim gubitkom mlecnih ili stalnih zuba.
+					Ortodoncija je grana stomatologije koja se bavi <mark style="background-color: #9fdfbf"><em>korekcijom nepravilnosti vilica i zuba</em></mark>. Te nepravilnosti su najčešće prouzrokovane genetskom predispozicijom, mada mogu biti podspešene i nekim lošim navikama
+					<br class="d-none d-lg-block">
+					ili ranim gubitkom mlečnih ili stalnih zuba.
 					<br><br>
-					Nepravilnosti se uocavaju vec kod dece školskog uzrasta. U zavisnosti od nepravilnosti sa terapijom se zapocinje što pre jer je tada uspeh terapije mnogo izvesniji.
+					Nepravilnosti se uočavaju već kod dece školskog uzrasta. U zavisnosti od nepravilnosti, 
+					<br class="d-none d-lg-block">
+					sa terapijom se započinje što pre, jer je tada uspeh terapije mnogo izvesniji.
 					<br><br>
-					Terapija se vrši funkcionalnim, pokretnim i fiksnim ortodontskim aparatom u zavisnosti od vrste nepravilnosti i uzrasta pacijenta.
+					Terapija se vrši funkcionalnim, pokretnim i fiksnim ortodontskim aparatom
+					<br class="d-none d-lg-block">
+					u zavisnosti od vrste nepravilnosti i uzrasta pacijenta.
 				</p>
 			</div>
 		</div>
-		<hr class="my-3">
 	</div>
 
-	<image-carousel>
-	</image-carousel>
-
 	<!-- Carousel -->
-	<div class="container-sm w-50">
-		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-			</ol>
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-					<img src="images/Ortodoncija/1.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/Ortodoncija/2.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/Ortodoncija/3.jpg" class="d-block w-100 h-100">
-				</div>
-				<div class="carousel-item">
-					<img src="images/Ortodoncija/4.jpg" class="d-block w-100 h-100">
-				</div>
+	<div class="container">
+		<div class="row px-2">
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Ortodoncija/1.jpg" class="d-block w-100 h-100">
 			</div>
-			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Ortodoncija/2.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Ortodoncija/3.jpg" class="d-block w-100 h-100">
+			</div>
+			<div class="col-6 col-sm-6 col-md-3 p-1">
+				<img src="images/Ortodoncija/4.jpg" class="d-block w-100 h-100">
+			</div>
 		</div>
 	</div>
 	<div class="container">
-		<hr class="my-4">	
+		<hr class="my-3">	
 	</div>
 
 <?php require ('views/partials/footer.php'); ?>
