@@ -18,5 +18,8 @@ $router->get('viniri', 'views/estetska_stomatologija/viniri.view.php');
 $router->get('izbeljivanje-zuba', 'views/estetska_stomatologija/izbeljivanje_zuba.view.php');
 $router->get('bezmetalna-keramika', 'views/estetska_stomatologija/bezmetalna_keramika.view.php');
 
+// Oralna Hirurgija
+$router->get('oralna-hirurgija', 'views/oralna_hirurgija/oralna_hirurgija.view.php');
+
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
