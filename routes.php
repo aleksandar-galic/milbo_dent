@@ -21,5 +21,7 @@ $router->get('bezmetalna-keramika', 'views/estetska_stomatologija/bezmetalna_ker
 // Oralna Hirurgija
 $router->get('oralna-hirurgija', 'views/oralna_hirurgija/oralna_hirurgija.view.php');
 
+$router->get('vadjenje-zuba', 'views/oralna_hirurgija/vadjenje_zuba.view.php');
+
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
