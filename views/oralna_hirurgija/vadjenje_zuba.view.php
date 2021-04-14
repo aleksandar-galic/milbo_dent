@@ -19,16 +19,16 @@
 	<div class="container">
 		<div class="row px-2">
 			<div class="col-6 col-sm-6 col-md-3 p-1">
-				<img src="images/OralnaHirurgija/1.jpg" class="d-block w-100 h-100">
+				<img src="images/VadjenjeZuba/1.jpg" class="d-block w-100 h-100">
 			</div>
 			<div class="col-6 col-sm-6 col-md-3 p-1">
-				<img src="images/OralnaHirurgija/2.jpg" class="d-block w-100 h-100">
+				<img src="images/VadjenjeZuba/2.jpg" class="d-block w-100 h-100">
 			</div>
 			<div class="col-6 col-sm-6 col-md-3 p-1">
-				<img src="images/OralnaHirurgija/3.jpg" class="d-block w-100 h-100">
+				<img src="images/VadjenjeZuba/3.jpg" class="d-block w-100 h-100">
 			</div>
 			<div class="col-6 col-sm-6 col-md-3 p-1">
-				<img src="images/OralnaHirurgija/4.jpg" class="d-block w-100 h-100">
+				<img src="images/VadjenjeZuba/4.jpg" class="d-block w-100 h-100">
 			</div>
 		</div>
 	</div>
