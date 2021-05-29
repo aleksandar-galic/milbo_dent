@@ -27,7 +27,7 @@
 </head>
 <body>
 	<!-- Navigation -->
-	<nav class="navbar navbar-expand-xl navbar-light sticky-top p-0" style="background: #9fdfbf">
+	<nav class="navbar navbar-expand-xl navbar-light sticky-top p-0" style="background: #30c947">
 		<div class="container-fluid pr-3">
 			<a class="navbar-brand" href="/"><img class="logo pl-3" src="images/logo.png"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">

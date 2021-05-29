@@ -1,3 +1,4 @@
+
 /*Foundation*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Shippori+Mincho+B1:wght@500&display=swap');
 
@@ -20,6 +21,7 @@ html, body {
 
 .nav-link {
 	font-size: 1em !important;
+	color: white !important;
 }
 
 /*Call to Action*/
@@ -27,7 +29,7 @@ html, body {
 .fa-plus-square,
 .fa-home,
 .fa-phone-square {
-	color: #9fdfbf;
+	color: #30c947;
 	font-size: 2.9rem;
 }
 
@@ -47,8 +49,8 @@ html, body {
 /*Buttons*/
 .btn-primary {
 	color: #262c30;
-	background-color: #9fdfbf;
-	border: 1px solid #9fdfbf;
+	background-color: #30c947;
+	border: 1px solid #30c947;
 }
 
 .btn:hover, .btn:active, .btn:focus {
