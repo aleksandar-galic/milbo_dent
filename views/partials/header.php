@@ -63,7 +63,7 @@
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="vadjenje-zuba">Vađenje Zuba</a>
-							<a class="dropdown-item" href="#">Vađenje Umnjaka</a>
+							<a class="dropdown-item" href="vadjenje-umnjaka">Vađenje Umnjaka</a>
 							<a class="dropdown-item" href="#">Ostali Hirurški Zahvati</a>
 							<a class="dropdown-item" href="#">Hirurško Vađenje Zuba</a>
 						</div>
