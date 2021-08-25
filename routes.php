@@ -26,5 +26,8 @@ $router->get('vadjenje-umnjaka', 'views/oralna_hirurgija/vadjenje_umnjaka.view.p
 $router->get('hirursko-vadjenje', 'views/oralna_hirurgija/hirursko_vadjenje.view.php');
 $router->get('ostali-zahvati', 'views/oralna_hirurgija/ostali_zahvati.view.php');
 
+// Protetika
+$router->get('protetika', 'views/protetika/protetika.view.php');
+
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
