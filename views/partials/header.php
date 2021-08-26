@@ -77,7 +77,7 @@
 							<a class="dropdown-item" href="proteze">Proteze</a>
 							<a class="dropdown-item" href="mostovi">Mostovi</a>
 							<a class="dropdown-item" href="#">Ortodoncija</a>
-							<a class="dropdown-item" href="#">Terapeutski Splintovi</a>
+							<a class="dropdown-item" href="terapeutski-splintovi">Terapeutski Splintovi</a>
 						</div>
 					</li>
 					<li class="nav-item active">

@@ -31,6 +31,7 @@ $router->get('protetika', 'views/protetika/protetika.view.php');
 $router->get('krunice', 'views/protetika/krunice.view.php');
 $router->get('proteze', 'views/protetika/proteze.view.php');
 $router->get('mostovi', 'views/protetika/mostovi.view.php');
+$router->get('terapeutski-splintovi', 'views/protetika/terapeutski_splintovi.view.php');
 
 // Ostalo
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
