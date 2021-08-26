@@ -28,6 +28,7 @@ $router->get('ostali-zahvati', 'views/oralna_hirurgija/ostali_zahvati.view.php')
 
 // Protetika
 $router->get('protetika', 'views/protetika/protetika.view.php');
+
 $router->get('krunice', 'views/protetika/krunice.view.php');
 $router->get('proteze', 'views/protetika/proteze.view.php');
 $router->get('mostovi', 'views/protetika/mostovi.view.php');

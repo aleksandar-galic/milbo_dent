@@ -76,7 +76,7 @@
 							<a class="dropdown-item" href="krunice">Krunice</a>
 							<a class="dropdown-item" href="proteze">Proteze</a>
 							<a class="dropdown-item" href="mostovi">Mostovi</a>
-							<a class="dropdown-item" href="#">Ortodoncija</a>
+							<a class="dropdown-item" href="ortodoncija">Ortodoncija</a>
 							<a class="dropdown-item" href="terapeutski-splintovi">Terapeutski Splintovi</a>
 						</div>
 					</li>
