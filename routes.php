@@ -35,4 +35,5 @@ $router->get('mostovi', 'views/protetika/mostovi.view.php');
 $router->get('terapeutski-splintovi', 'views/protetika/terapeutski_splintovi.view.php');
 
 // Ostalo
+$router->get('zasto-mi', 'views/zasto_mi.view.php');
 $router->get('pitanja-i-odgovori', 'views/pitanja_i_odgovori.view.php');
