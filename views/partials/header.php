@@ -75,7 +75,7 @@
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="krunice">Krunice</a>
 							<a class="dropdown-item" href="proteze">Proteze</a>
-							<a class="dropdown-item" href="#">Mostovi</a>
+							<a class="dropdown-item" href="mostovi">Mostovi</a>
 							<a class="dropdown-item" href="#">Ortodoncija</a>
 							<a class="dropdown-item" href="#">Terapeutski Splintovi</a>
 						</div>
