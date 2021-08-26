@@ -10,7 +10,7 @@
 			<div class="col-12">
 				<p class="lead">
                     Koristeci najsavremeniju keramiku i najjednostavnije postupke u radu,<br>
-                    izradujemo krunice odlicnih funkcionalnih i estetskih karakteristika.
+                    izrađujemo krunice odličnih funkcionalnih i estetskih karakteristika.
                 </p>
 			</div>
 		</div>
