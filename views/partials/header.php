@@ -73,7 +73,7 @@
 							Protetika
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="#">Krunice</a>
+							<a class="dropdown-item" href="krunice">Krunice</a>
 							<a class="dropdown-item" href="#">Proteze</a>
 							<a class="dropdown-item" href="#">Mostovi</a>
 							<a class="dropdown-item" href="#">Ortodoncija</a>
