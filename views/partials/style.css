@@ -41,6 +41,18 @@ html, body {
 	text-decoration: none;
 }
 
+/*Carousel*/
+.carousel img {
+    max-height: 555px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
 /*Welcome*/
 .welcome {
 	text-decoration: none;
